@@ -51,10 +51,5 @@ namespace Downloader
                 lblPercent.Text = "100 %";
             });
         }
-
-        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
-        {
-
-        }
     }
 }
